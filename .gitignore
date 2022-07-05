@@ -1,0 +1,11 @@
+venv/
+
+.DS_Store
+
+playground.py
+Ginobili.csv
+houston.csv
+data2.xlsx
+data.xlsx
+
+.env
